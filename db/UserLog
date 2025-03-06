@@ -1,0 +1,12 @@
+test.user (regular user)
+------------------------
+test@email.com
+password
+eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyfQ.1RnJOLOAy0GITnOMRsoIThBQQbxO0uLxneEt4BHFsUU
+
+
+test.admin1 (admin)
+-------------------------
+admin1@email.com
+passworda1
+eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozfQ.Jws2dRJGmGTIaeJKqkq9J2OL8L9VsESnQu0zOfeOp6g
